@@ -2,7 +2,7 @@
 
 This module provides functionality for quantitative analysis of financial time series data. It includes methods for calculating technical indicators such as
 Moving Average Convergence Divergence (MACD), Bollinger Bands, Simple Moving Average (SMA), and generating signals based on these indicators for trading 
-strategies.  Additionally, it incorporates a Long Short-Term Memory (LSTM) model for time series forecasting.
+strategies.  Additionally, it incorporates a dynamic Long Short-Term Memory (LSTM) model for time series forecasting.
 
 ## Installation
 
